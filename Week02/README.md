@@ -103,7 +103,6 @@ Target encoding 采用 target mean value （among each category） 来给categor
 
 
 
-# coding = 'utf-8'
 import numpy as np
 import pandas as pd
 
